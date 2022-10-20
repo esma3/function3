@@ -1,0 +1,51 @@
+body{
+    margin:0 auto;
+    padding:0px;
+    background:url(https://img.freepik.com/free-vector/night-office-coworking-space-interior-workplace_107791-10359.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.main{
+    width:190px;
+    min-height:90px;
+    
+    float:left;
+    position:fixed;
+   transition: 0.5s;
+   left:35px;
+   bottom:2px;
+
+}
+.main img{
+    width:100%;
+    min-height:300px;
+    float:left;
+    
+
+}
+#man{
+    width:100%;
+    min-height:400px;
+    float:left;
+}
+/* .main2{
+    width:190px;
+    min-height:90px;
+  
+    float:left;
+    position:fixed;
+   transition: 0.5s;
+   left:35px;
+   bottom:7px;
+
+}
+.main2 img{
+    width:100%;
+   
+    float:left;
+    
+
+} */
+
+
+

@@ -6,7 +6,7 @@ pos_left =0
 
 onkeydown =function(e){
     
-    console.log(e.key)
+    console.log(e)
     if(e.key =="ArrowRight"){
 
     document.getElementById("man").src ="https://cdn.dribbble.com/users/1167054/screenshots/4721450/the-walk-gif.gif"; 
